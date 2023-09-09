@@ -1,0 +1,3 @@
+ 	college = Dayananda sagar university
+	its working by using vim syntex
+	name = Sindhu kumar k
